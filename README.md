@@ -1,5 +1,5 @@
 # Monocular Depth Estimation using MiDaS and openCV
-
+Monocular Depth Estimation using MiDaS and openCV
 This repository contains a Python script using the MiDaS (Mixed Data Sampling) model for real-time depth estimation. It utilizes OpenCV for webcam input, PyTorch for running the MiDaS model, and matplotlib for displaying the results.
 
 ## Overview
